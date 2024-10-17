@@ -151,6 +151,3 @@ Alerts can be configured to trigger based on specific conditions in the `TASK_ST
    cd Cloud-E-Commerce-Database-Solution
 
 ```
-
-
-
