@@ -149,5 +149,4 @@ Alerts can be configured to trigger based on specific conditions in the `TASK_ST
    ```bash
    git clone https://github.com/anilsolanki2645/Cloud-E-Commerce-Database-Solution.git
    cd Cloud-E-Commerce-Database-Solution
-
 ```
