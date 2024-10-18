@@ -1,0 +1,31 @@
+REVIEW_ID,PRODUCT_ID,CUSTOMER_ID,RATING,REVIEW_TEXT,REVIEW_DATE,HELPFUL_VOTES
+R1,P1,C1,5,"Excellent product! Highly recommend.",2024-09-01 09:30:00,12
+R2,P1,C2,4,"Very good, but could be improved.",2024-09-02 10:00:00,8
+R3,P2,C3,3,"Average quality, not what I expected.",2024-09-02 11:15:00,5
+R4,P2,C4,2,"Did not meet my expectations.",2024-09-03 12:00:00,3
+R5,P3,C1,5,"Best purchase I've made this year!",2024-09-04 14:30:00,15
+R6,P3,C2,4,"Good value for money.",2024-09-05 10:45:00,10
+R7,P4,C5,1,"Terrible quality, do not buy.",2024-09-06 11:30:00,0
+R8,P5,C3,4,"Decent product, worth the price.",2024-09-07 13:00:00,7
+R9,P5,C4,5,"Loved it! Will buy again.",2024-09-08 15:15:00,20
+R10,P6,C1,2,"Not as described, disappointing.",2024-09-09 09:15:00,4
+R11,P6,C2,3,"It's okay, does the job.",2024-09-10 12:30:00,6
+R12,P7,C3,4,"Solid product, happy with my purchase.",2024-09-11 10:00:00,12
+R13,P7,C4,5,"Exceeded my expectations!",2024-09-12 11:45:00,18
+R14,P8,C5,3,"Mediocre, wouldn't recommend.",2024-09-13 09:45:00,2
+R15,P8,C1,4,"Pretty good, but there's room for improvement.",2024-09-14 15:00:00,9
+R16,P9,C2,5,"Fantastic! Will definitely recommend to friends.",2024-09-15 13:30:00,25
+R17,P9,C3,4,"Really good, met my needs perfectly.",2024-09-16 14:00:00,11
+R18,P10,C4,2,"Not what I expected, quality is lacking.",2024-09-17 11:00:00,3
+R19,P10,C5,3,"It works, but not great.",2024-09-18 12:15:00,4
+R20,P1,C1,5,"My favorite product ever!",2024-09-19 10:45:00,30
+R21,P2,C2,4,"Good, but the delivery was late.",2024-09-20 09:30:00,5
+R22,P3,C3,5,"Absolutely love this!",2024-09-21 13:00:00,22
+R23,P4,C4,1,"Hated it. Broke within a week.",2024-09-22 10:30:00,1
+R24,P5,C5,4,"Good quality for the price.",2024-09-23 11:15:00,10
+R25,P6,C1,3,"It's okay, nothing special.",2024-09-24 12:00:00,6
+R26,P7,C2,4,"Really good product, happy with it.",2024-09-25 14:45:00,14
+R27,P8,C3,2,"Didn't last long, would not buy again.",2024-09-26 13:30:00,2
+R28,P9,C4,5,"A must-have! Will buy again.",2024-09-27 15:00:00,27
+R29,P10,C5,4,"Pretty decent, worth the price.",2024-09-28 10:00:00,11
+R30,P1,C1,5,"Still my favorite! Great product.",2024-09-29 09:00:00,29

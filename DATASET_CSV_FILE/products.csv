@@ -1,0 +1,31 @@
+PRODUCT_ID,PRODUCT_NAME,CATEGORY,PRICE,DESCRIPTION,STOCK,BRAND
+P001,Redmi Note 12,Smartphone,12999,"Redmi Note 12 with 6GB RAM, 128GB Storage",50,Xiaomi
+P002,Samsung Galaxy M32,Smartphone,14999,"Samsung Galaxy M32 with 6GB RAM, 128GB Storage",40,Samsung
+P003,OnePlus Nord CE 2,Smartphone,22999,"OnePlus Nord CE 2 with 8GB RAM, 128GB Storage",30,OnePlus
+P004,Apple iPhone 14,Smartphone,79999,"Apple iPhone 14, 128GB, Blue",20,Apple
+P005,Dell Inspiron 15,Laptop,54990,"Dell Inspiron 15, Intel i5, 8GB RAM, 512GB SSD",15,Dell
+P006,HP Pavilion x360,Laptop,65990,"HP Pavilion x360, Intel i5, 16GB RAM, 1TB SSD",10,HP
+P007,Mi Smart Band 6,Accessories,2499,"Mi Smart Band 6 with heart rate monitor",100,Xiaomi
+P008,Fossil Gen 5 Smartwatch,Accessories,19995,"Fossil Gen 5 Smartwatch with fitness tracking",25,Fossil
+P009,Sony WH-1000XM4,Accessories,29990,"Sony WH-1000XM4 Wireless Noise Cancelling Headphones",15,Sony
+P010,Lenovo Tab M10,Tablet,12999,"Lenovo Tab M10, 10.3-inch, 4GB RAM, 64GB Storage",30,Lenovo
+P011,Acer Aspire 7,Laptop,69990,"Acer Aspire 7, Intel i7, 16GB RAM, 1TB HDD",12,Acer
+P012,Realme GT Master Edition,Smartphone,24999,"Realme GT Master Edition, 8GB RAM, 128GB Storage",22,Realme
+P013,Mi Air Purifier 3,Home Appliance,10999,"Mi Air Purifier 3, 360-degree filtration",50,Xiaomi
+P014,Samsung Galaxy Watch 4,Accessories,24999,"Samsung Galaxy Watch 4 with health tracking",20,Samsung
+P015,Philips Mixer Grinder,Home Appliance,3999,"Philips Mixer Grinder, 750W, 3 Jars",80,Philips
+P016,Panasonic 32 inch TV,Electronics,15999,"Panasonic 32 inch LED TV, HD Ready",25,Panasonic
+P017,LG 6.5 kg Washing Machine,Home Appliance,22990,"LG Fully Automatic Washing Machine, 6.5 kg",15,LG
+P018,Amazon Echo Dot,Electronics,3499,"Amazon Echo Dot (4th Gen) with Alexa",100,Amazon
+P019,Seagate 1TB External HDD,Accessories,4199,"Seagate 1TB External Hard Drive, Portable",45,Seagate
+P020,Mi Power Bank 3,Accessories,1499,"Mi Power Bank 3, 20000mAh",200,Xiaomi
+P021,Himalaya Neem Face Wash,Beauty,199,"Himalaya Neem Face Wash, 150ml",150,Himalaya
+P022,L'Oreal Paris Shampoo,Beauty,399,"L'Oreal Paris Shampoo, 400ml",120,L'Oreal
+P023,Mamypoko Pants Diapers,Baby Care,899,"MamyPoko Pants Diapers, Size L, 54 pcs",60,MamyPoko
+P024,Toyata Glanza,Automobile,749990,"Toyota Glanza, Petrol, Manual Transmission",5,Toyota
+P025,LG 43 inch Smart TV,Electronics,34990,"LG 43 inch Smart TV, 4K UHD",20,LG
+P026,Philips Beard Trimmer,Accessories,1799,"Philips Beard Trimmer, Cordless",70,Philips
+P027,Tata Tea Premium,Groceries,175,"Tata Tea Premium, 1kg",150,Tata
+P028,Daawat Basmati Rice,Groceries,160,"Daawat Basmati Rice, 5kg",80,Daawat
+P029,Nestle Maggi Noodles,Groceries,60,"Nestle Maggi Noodles, 5 packs",500,Nestle
+P030,Sunfeast Dark Fantasy,Groceries,90,"Sunfeast Dark Fantasy Biscuits, 4 packs",300,Sunfeast

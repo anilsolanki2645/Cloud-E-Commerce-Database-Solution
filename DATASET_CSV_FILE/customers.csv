@@ -1,0 +1,31 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,ADDRESS,REGISTRATION_DATE
+C001,Aarav,Sharma,aarav.sharma@example.com,9876543210,"123, MG Road, Bangalore",2023-01-15 10:15:00
+C002,Vanya,Patel,vanya.patel@example.com,9123456780,"456, 1st Main, Mumbai",2023-02-20 11:30:00
+C003,Vihaan,Gupta,vihaan.gupta@example.com,9988776655,"789, 2nd Cross, Delhi",2023-03-05 14:45:00
+C004,Anaya,Verma,anaya.verma@example.com,9870123456,"321, Park Avenue, Kolkata",2023-01-22 09:00:00
+C005,Arjun,Reddy,arjun.reddy@example.com,9101234567,"654, Sea View Road, Chennai",2023-02-10 16:00:00
+C006,Saanvi,Mishra,saanvi.mishra@example.com,9784561230,"147, Green Park, Hyderabad",2023-03-15 18:30:00
+C007,Rohan,Jadhav,rohan.jadhav@example.com,9898989898,"258, Hilltop, Pune",2023-01-30 20:00:00
+C008,Kiara,Khan,kiara.khan@example.com,9966554433,"369, Ocean Drive, Mumbai",2023-02-25 12:30:00
+C009,Aditya,Bansal,aditya.bansal@example.com,9556677889,"753, Riverside, Surat",2023-03-10 11:00:00
+C010,Reyansh,Desai,reyansh.desai@example.com,9008776655,"159, Sunset Boulevard, Ahmedabad",2023-01-05 15:15:00
+C011,Naina,Chopra,naina.chopra@example.com,9456123456,"246, Central Park, Jaipur",2023-02-18 09:45:00
+C012,Siddharth,Nair,siddharth.nair@example.com,8998877665,"852, Lake View, Cochin",2023-03-12 14:15:00
+C013,Disha,Singh,disha.singh@example.com,8987654321,"963, Hill Crest, Lucknow",2023-01-25 13:00:00
+C014,Krishna,Dutta,krishna.dutta@example.com,9789123456,"147, River Bank, Chandigarh",2023-02-28 10:00:00
+C015,Aditi,Agarwal,aditi.agarwal@example.com,9871234567,"258, City Center, Nagpur",2023-03-22 19:00:00
+C016,Vikrant,Rai,vikrant.rai@example.com,9508765432,"369, Valley View, Noida",2023-01-20 11:20:00
+C017,Shivani,Suri,shivani.suri@example.com,9944556677,"654, Landmark Building, Indore",2023-02-05 16:45:00
+C018,Rishabh,Malhotra,rishabh.malhotra@example.com,9786543210,"741, Maple Road, Bhopal",2023-03-30 14:00:00
+C019,Priya,Dhawan,priya.dhawan@example.com,9812345678,"852, Sunrise Avenue, Bhubaneswar",2023-01-10 10:30:00
+C020,Kabir,Ram,kabir.ram@example.com,9702345671,"963, Crescent Road, Vadodara",2023-02-15 12:15:00
+C021,Nikitha,Mehta,nikitha.mehta@example.com,9887766554,"123, Evergreen Road, Patna",2023-03-01 17:30:00
+C022,Manish,Tiwari,manish.tiwari@example.com,9999888777,"456, Forest Park, Surat",2023-01-11 08:00:00
+C023,Pooja,Yadav,pooja.yadav@example.com,9955664433,"789, Ocean Breeze, Ranchi",2023-02-23 15:00:00
+C024,Shivangi,Jaiswal,shivangi.jaiswal@example.com,9922334455,"147, Urban Lane, Agra",2023-03-13 14:45:00
+C025,Vivek,Bhatia,vivek.bhatia@example.com,9191919191,"258, Forest Hill, Kanpur",2023-01-19 20:00:00
+C026,Simran,Kaur,simran.kaur@example.com,9933445566,"369, Skyline Road, Srinagar",2023-02-02 11:15:00
+C027,Akash,Rai,akash.rai@example.com,9799998888,"741, Pearl Street, Dehradun",2023-03-25 16:30:00
+C028,Kavya,Singhania,kavya.singhania@example.com,9512369874,"963, Diamond Square, Coimbatore",2023-01-28 09:15:00
+C029,Raghav,Chatterjee,raghav.chatterjee@example.com,9788945632,"852, Golden Valley, Nashik",2023-02-12 19:00:00
+C030,Anvi,Verma,anvi.verma@example.com,9700298300,"159, Silver Lake, Mysore",2023-03-18 14:30:00
