@@ -47,7 +47,7 @@ The data modeling phase defines the structure of the e-commerce database. The ke
 ## Data Storage
 Data is stored in Snowflake in various schemas representing different domains of the e-commerce platform. The database structure is designed to allow efficient queries and reporting.
 
-Here is just create a csv files and put it to s3.
+Here is just create a csv files and put it to aws s3.
 
 ### Example Schema Structure
 - `PRODUCT_SCHEMA` (Table: `PRODUCTS`)
