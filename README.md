@@ -17,7 +17,10 @@ The **End-to-End E-Commerce Database Solution** project is designed to integrate
 - [License](#license)
 
 
-
+## Prerequisites
+- Snowflake account
+- AWS account with S3 bucket access
+- Basic knowledge of SQL and Snowflake architecture
 
 ## Setup
 1. **AWS S3 Configuration:**
