@@ -102,8 +102,7 @@ AS
 
 ```
 
-## Monitoring
-Monitoring involves tracking the execution of tasks and the status of data ingestion processes. A dedicated TASK_STATUS table logs execution details, including success or failure, timestamps, and error messages.
+
 
 ### Example Status Table
 ```sql
