@@ -132,9 +132,7 @@ Alerts are set up using AWS Simple Notification Service (SNS) to notify stakehol
 Alerts can be configured to trigger based on specific conditions in the `TASK_STATUS` table. For example, if a task fails, an SNS notification can be sent to a designated email list.
 
 
-## Notes
-- Make sure to customize any placeholder texts and paths to match your actual project structure and requirements.
-- If you have visual aids or diagrams, such as a data model image, be sure to include them for better clarity.
+
 
 ### Key Features:
 - Each section is clearly labeled and easy to navigate.
