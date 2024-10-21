@@ -125,6 +125,8 @@ CREATE OR REPLACE TABLE ECOM.PUBLIC.TASK_STATUS (
 
 ```
 
+## Alerting
+Alerts are set up using AWS Simple Notification Service (SNS) to notify stakeholders of task execution results, including failures and significant events in the data pipeline.
 
 ### Example Alert Setup
 Alerts can be configured to trigger based on specific conditions in the `TASK_STATUS` table. For example, if a task fails, an SNS notification can be sent to a designated email list.
