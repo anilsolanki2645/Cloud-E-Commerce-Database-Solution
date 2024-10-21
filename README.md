@@ -61,9 +61,7 @@ Here is just create a csv files and put it to aws s3.
 ## Data Integration
 Data integration involves pulling data from various sources (in this case, CSV files stored in S3) into the Snowflake database. This includes setting up stages and file formats to facilitate data loading.
 
-### Key Steps
-- Create stages for accessing data files in S3.
-- Define file formats to read CSV data correctly.
+
 
 ## Data Ingestion
 Data ingestion is managed through stored procedures that load data from the defined stages into the respective tables in Snowflake. Each procedure handles truncation and insertion of data efficiently.
