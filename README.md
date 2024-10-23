@@ -136,6 +136,10 @@ Alerts can be configured to trigger based on specific conditions in the `TASK_ST
 - Make sure to customize any placeholder texts and paths to match your actual project structure and requirements.
 - If you have visual aids or diagrams, such as a data model image, be sure to include them for better clarity.
 
+### Key Features:
+- Each section is clearly labeled and easy to navigate.
+- Code blocks are formatted for SQL to enhance readability.
+- You can easily copy and paste this Markdown text into your `README.md` file.
 
 **Important Note**: Please refer to the comments and instructions within the code to avoid errors or conflicts while working on this project.
 
