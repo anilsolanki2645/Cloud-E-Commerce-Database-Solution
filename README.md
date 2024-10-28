@@ -68,7 +68,7 @@ Data integration involves pulling data from various sources (in this case, CSV f
 ## Data Ingestion
 Data ingestion is managed through stored procedures that load data from the defined stages into the respective tables in Snowflake. Each procedure handles truncation and insertion of data efficiently.
 
-### Example Procedure
+
 ```sql
 CREATE OR REPLACE PROCEDURE ECOM.PRODUCT_SCHEMA.USP_LOAD_PRODUCTS()
 RETURNS VARCHAR(16777216)
