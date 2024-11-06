@@ -89,8 +89,6 @@ END;
 '; 
 ```
 
-## Pipeline Automation
-Pipeline automation is achieved through the creation of tasks in Snowflake that schedule and automate the execution of data loading procedures. Tasks can run on a defined schedule or be triggered on-demand.
 
 ### Example Task
 ```sql
