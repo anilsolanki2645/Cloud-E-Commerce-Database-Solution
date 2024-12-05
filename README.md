@@ -49,7 +49,14 @@ Data is stored in Snowflake in various schemas representing different domains of
 
 Here is just create a csv files and put it to aws s3.
 
-
+### Example Schema Structure
+- `PRODUCT_SCHEMA` (Table: `PRODUCTS`)
+- `CUSTOMER_SCHEMA` (Table: `CUSTOMERS`)
+- `ORDER_SCHEMA` (Table: `ORDERS`)
+- `ORDER_ITEM_SCHEMA` (Table: `ORDER_ITEMS`)
+- `PAYMENT_SCHEMA` (Table: `PAYMENTS`)
+- `SHIPPING_SCHEMA` (Table: `SHIPPING`)
+- `REVIEW_SCHEMA` (Table: `REVIEWS`)
 
 ## Data Integration
 Data integration involves pulling data from various sources (in this case, CSV files stored in S3) into the Snowflake database. This includes setting up stages and file formats to facilitate data loading.
