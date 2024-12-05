@@ -92,7 +92,15 @@ END;
 ## Pipeline Automation
 Pipeline automation is achieved through the creation of tasks in Snowflake that schedule and automate the execution of data loading procedures. Tasks can run on a defined schedule or be triggered on-demand.
 
+### Example Task
+```sql
+CREATE OR REPLACE TASK ECOM.PRODUCT_SCHEMA.TASK_PRODUCTS
+WAREHOUSE = COMPUTE_WH
+SCHEDULE = 'USING CRON * * * * * UTC'
+AS
+    CALL ECOM.PRODUCT_SCHEMA.USP_LOAD_PRODUCTS(); 
 
+```
 
 ## Monitoring
 Monitoring involves tracking the execution of tasks and the status of data ingestion processes. A dedicated TASK_STATUS table logs execution details, including success or failure, timestamps, and error messages.
